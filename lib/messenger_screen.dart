@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 class MessengerScreen extends StatelessWidget {
   const MessengerScreen({super.key});
   // commit 2
+  // nav bar
   @override
   Widget build(BuildContext context) {
     return Scaffold(
