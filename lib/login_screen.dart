@@ -81,7 +81,7 @@ class LoginScreen extends StatelessWidget {
                  },
                   child: Text(
                     'LOGIN',
-                    style: TextStyle(color: Colors.white),
+                    style: TextStyle(color: Colors.teal),
                   ),
               ),
             ) ,
