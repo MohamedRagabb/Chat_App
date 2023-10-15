@@ -82,7 +82,7 @@ class LoginScreen extends StatelessWidget {
                   child: Text(
                     'LOGIN',
                     style: TextStyle(color: Colors.teal),
-                  ),
+                  ), //.
               ),
             ) ,
             SizedBox(
